@@ -10,7 +10,7 @@ During the Great Depression (in 1934), workers for the federal government’s Wo
 
 The statistics show that life was good in the West Division of Hartford, especially in comparison to what some had left in England, and what some of the first settlers had suffered in the early 17th century. Taken by decade, the most people died in their 70s. Once people lived to be 10, their chances of survival, and even living into their 80s and 90s, were quite high. Thomas Merrell, born in 1714, the year after the first church was erected in the West Division, died at age 100.
 
-![Old Burying Ground Burials, by age and gender](images/01-burying-graph-cropped.png)
+![Old Burying Ground Burials, by age and gender](images/01-burying.png)
 
 Today, more women live into their later years, but in colonial times, this seemed not to be the case, with more men than women living into their 80s and 90s. Many women died in childbirth. Rachel Webster, first wife of Abraham, (the oldest brother of Noah Jr.) died at age 21, in childbirth. Her infant was never named and died after 7 days. While more men than women died in their 20s, more women than men died in their 30s and 40s, perhaps showing that childbirth became more dangerous, the older the woman.
 
