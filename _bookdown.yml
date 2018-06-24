@@ -1,0 +1,6 @@
+output_dir: "docs"
+book_filename: "Wilson-Life-in-West-Hartford"
+edit: https://github.com/jackdougherty/book-life-in-west-hartford/edit/master/%s
+language:
+  label:
+    fig: "Figure "

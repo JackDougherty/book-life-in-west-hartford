@@ -1,0 +1,49 @@
+---
+lang: "en"
+title: "Life In West Hartford"
+author: "Tracey M. Wilson"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+documentclass: book
+
+url: 'http\://jackdougherty.github.io/book-life-in-west-hartford'
+github-repo: jackdougherty/book-life-in-west-hartford
+
+output:
+  bookdown::gitbook:
+    dev: svglite
+    css: css/style.css
+    split_by: chapter
+    split_bib: true
+    number_sections: false
+    config:
+      toc:
+        scroll_highlight: yes
+        collapse: section
+        before: |
+            <li><a href="./"><strong>Life in West Hartford</strong><br>by Tracey M. Wilson</a></li>
+        after: |
+            <li><a href="https://noahwebsterhouse.org/" target="_blank">Open-access book</br>published by</br>Noah Webster House</a></li>
+            <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></li>
+            <li><a href="https://bookdown.org" target="_blank">Created with Bookdown</a></li>
+      download: [pdf, epub, mobi]
+      search: yes
+      sharing:
+        facebook: yes
+        twitter: yes
+
+  bookdown::pdf_book: default
+
+  bookdown::epub_book:
+    dev: svglite
+    stylesheet: css/style.css
+
+  bookdown::word_document2: default
+---
+# Preface {-}
+
+![ ](images/sample-300x300.png)
+
+This book-in-progress was last updated on: `r Sys.Date()`
+
+short description here
