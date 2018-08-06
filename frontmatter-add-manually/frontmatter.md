@@ -1,0 +1,27 @@
+Copyright © 2018 by Tracey M. Wilson and freely distributed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Readers may freely share the work for non-commercial use, by including a source credit to the author.
+
+Print copies of this book are available for sale from the publisher, the Noah Webster & West Historical Historical Society <https://noahwebsterhouse.org>. Proceeds of sales benefit the Society.
+
+The content of this book is freely available online at <http://LifeInWestHartford.org>
+
+Cover photo TO COME
+
+Cover design TO COME
+
+Printed by TO COME
+
+ISBN TO COME
+
+LIFE IN WEST HARTFORD
+Tracey M. Wilson
+288 pp.
+
+First printing September 2018
+
+****
+
+Copyright © 2018 by Tracey M. Wilson and freely distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Readers may freely share the work for non-commercial use, by including a source credit to the author.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><a href="http://lifeinwesthartford.org"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Life In West Hartford</span></a> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://lifeinwesthartford.org" property="cc:attributionName" rel="cc:attributionURL">Tracey M. Wilson</a>
+
+These chapters help tell the story of the West Hartford, Connecticut community from first settlement to the present day. How does the identity of a community grow? Who are the people whose voices have not been heard? And how did the powerful use their voices? Who spoke and worked for equality, democracy, justice, rights and rebellion, all ideals delineated in our Declaration of Independence? Local history gives us a window into how life in a democracy works.
