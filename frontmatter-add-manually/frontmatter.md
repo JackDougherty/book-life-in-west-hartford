@@ -1,16 +1,16 @@
 Copyright © 2018 by Tracey M. Wilson and freely distributed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Readers may freely share the work for non-commercial use, by including a source credit to the author.
 
-Print copies of this book are available for sale from the publisher, the Noah Webster House & West Historical Historical Society <https://noahwebsterhouse.org>. Proceeds of sales benefit the Society.
+Print copies of this book are available for sale from the publisher, the Noah Webster House & West Hartford Historical Society, in West Hartford, Connecticut. Proceeds of sales benefit the Society <http://noahwebsterhouse.org>.
 
-The content of this book is freely available online at <http://LifeInWestHartford.org>
+The contents of this book are freely available online at <http://LifeInWestHartford.org>
 
 Cover photo: Teacher and Coach Louise Duffy poses with her 1911-12 West Hartford High School basketball team. Courtesy of the Noah Webster House & West Hartford Historical Society.
 
-Cover design: Rich Hollant, Co:Lab, 1429 Park St, Hartford, CT
+Cover design: Rich Hollant, Co:Lab, 1429 Park Street, Hartford, CT
 
 Printed by: Cricket Press, 236 Park Road, West Hartford, CT
 
-ISBN TO COME
+ISBN: 978-0-692-18240-6
 
 LIFE IN WEST HARTFORD
 Tracey M. Wilson
