@@ -1,3 +1,5 @@
+REDO TO MATCH WORD DOCX
+
 Copyright © 2018 by Tracey M. Wilson and freely distributed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Readers may freely share the work for non-commercial use, by including a source credit to the author.
 
 Print copies of this book are available for sale from the publisher, the Noah Webster House & West Hartford Historical Society, in West Hartford, Connecticut. Proceeds of sales benefit the Society <http://noahwebsterhouse.org>.
