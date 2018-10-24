@@ -8,11 +8,15 @@ documentclass: book
 
 url: 'http\://jackdougherty.github.io/book-life-in-west-hartford'
 github-repo: jackdougherty/book-life-in-west-hartford
+description: 'These chapters help tell the story of the West Hartford, Connecticut community from first settlement to the present day. How does the identity of a community grow? Who are the people whose voices have not been heard? And how did the powerful use their voices? Who spoke and worked for equality, democracy, justice, rights and rebellion, all ideals delineated in our Declaration of Independence? Local history gives us a window into how life in a democracy works.'
+cover-image: "images/0-cover-front.png"
 
 output:
   bookdown::gitbook:
     dev: svglite
     css: css/style.css
+    includes:
+      in_header: google-analytics-lifeinwh.html
     split_by: chapter
     split_bib: true
     number_sections: false
@@ -23,9 +27,8 @@ output:
         before: |
             <li><a href="./"><strong>Life in West Hartford</strong><br>by Tracey M. Wilson</a></li>
         after: |
-            <li><a href="https://noahwebsterhouse.org/" target="_blank">Open-access book</br>published by</br>Noah Webster House</a></li>
+            <li><a href="https://noahwebsterhouse.org/" target="_blank">Book published by</br>Noah Webster House &<br>West Hartford<br>Historical Society</a></li>
             <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></li>
-            <li><a href="https://bookdown.org" target="_blank">Created with Bookdown</a></li>
       download: [pdf, epub, mobi]
       search: yes
       sharing:
@@ -37,19 +40,34 @@ output:
   bookdown::epub_book:
     dev: svglite
     stylesheet: css/style.css
-
-  bookdown::word_document2: default
 ---
-# Introduction {-}
+# Preface {-}
 
-Who tells our stories? And what do these stories tell us about what we value?  
+![ ](images/0-cover-front.png)
 
-For 15 years, I wrote local history essays for the magazine, *West Hartford Life*. I’m not sure how I wrote more than 140 essays while I was raising a family and teaching high school history full time. These monthly articles continually put me in the position of my Conard High School history students --- a deadline, a topic, establishing a context, evidence, and ferreting out cause and effect. This work helped make me a better teacher and community member. I was able to use my historian skills at the local level to help community members examine who we are as a town.
+These chapters help tell the story of the West Hartford, Connecticut community from first settlement to the present day. How does the identity of a community grow? Who are the people whose voices have not been heard? And how did the powerful use their voices? Who spoke and worked for equality, democracy, justice, rights and rebellion, all ideals delineated in our Declaration of Independence? Local history gives us a window into how life in a democracy works.
 
-As I wrote these articles, and as you read them, individually, and as a whole, think about how they define what we value as a community. What events included all types of people? Which events excluded people? Which reinforced who had power and which gave power to those who didn’t have it before? Whose voices were heard? What documents can give us a window into the past? Is the story about an individual or is it more about the context in which this individual lived? How do present day issues help to define what we want to know about the past?
+About the author: Tracey M. Wilson taught history in the West Hartford Public Schools for over 35 years. She taught a course in Local History at Conard High School and wrote articles for ​*West Hartford Life* for 15 years. The Town Council named her Town Historian in 2004. She earned her B.A. and M.A. degrees from Trinity College, and her Ph.D. in history from Brown University. She lives with her wife Beth Bye in West Hartford, CT.
 
-![Author Tracey Wilson, explaining how city directories reveal stories about the past. Photo by Jack Dougherty.](images/0-Wilson.jpg)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><a href="http://lifeinwesthartford.org"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Life In West Hartford</span></a> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://lifeinwesthartford.org" property="cc:attributionName" rel="cc:attributionURL">Tracey M. Wilson</a>
 
-My love for this town comes from the involvement of so many citizens in striving to build a better community: a place based on justice, equal opportunity, a desire to join together to attack problems, and a love for those who live here. That is not to say that our actions in this town are always just, or that there is equal opportunity for all. Not everyone is a joiner, and not everyone is loved. But I dare say that many in this town make it their work to move toward those noble goals. You will read here about equality and differences. For example, you’ll read about our first meeting house, Lemuel Haynes, Amos Beman, Thomas Barrows, when we became our own town, Edith Beach, Susie Butler Andrews, Dr. Caroline Hamilton, the League of Women Voters, attempts to build affordable housing, Korczak Ziolkowski, Soviet Jewish emigres, school Superintendents, people who died in the many wars, and about pioneer Olivia Shelton.
+Copyright © 2018 by Tracey M. Wilson and freely distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Readers may freely share the work for non-commercial use, by including a source credit to the author.
 
-Former Connecticut State Historian Chris Collier argued that he could teach United States History by teaching Connecticut history. There is much to be said for that sentiment. For the stories here about West Hartford teach us about equality, democracy, justice, rights and rebellion. Local history, too, can teach U.S. History.
+The contents of this book are freely available online at <http://LifeInWestHartford.org>
+
+Print copies of this book are available for sale from the publisher, the Noah Webster House & West Hartford Historical Society, in West Hartford, Connecticut. Proceeds of sales benefit the Society <http://noahwebsterhouse.org>.
+
+Cover photo: Teacher and Coach Louise Duffy poses with her 1911-12 West Hartford High School basketball team. Courtesy of the Noah Webster House & West Hartford Historical Society.
+
+Cover design: Rich Hollant, Co:Lab, 1429 Park Street, Hartford, CT
+
+Printed by: Cricket Press, 236 Park Road, West Hartford, CT
+
+Print book ISBN: 978-0-692-18240-6
+
+LIFE IN WEST HARTFORD
+Tracey M. Wilson
+288 pp.
+First printing September 2018
+
+Web and ebook editions created with [Bookdown](https://bookdown.org), last updated on `r Sys.Date()`
