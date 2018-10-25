@@ -9,7 +9,7 @@ documentclass: book
 url: 'http\://jackdougherty.github.io/book-life-in-west-hartford'
 github-repo: jackdougherty/book-life-in-west-hartford
 description: 'These chapters help tell the story of the West Hartford, Connecticut community from first settlement to the present day. How does the identity of a community grow? Who are the people whose voices have not been heard? And how did the powerful use their voices? Who spoke and worked for equality, democracy, justice, rights and rebellion, all ideals delineated in our Declaration of Independence? Local history gives us a window into how life in a democracy works.'
-cover-image: "images/0-cover-front.png"
+cover-image: "images/0-cover-front.jpg"
 
 output:
   bookdown::gitbook:
@@ -27,8 +27,7 @@ output:
         before: |
             <li><a href="./"><strong>Life in West Hartford</strong><br>by Tracey M. Wilson</a></li>
         after: |
-            <li><a href="https://noahwebsterhouse.org/" target="_blank">Book published by</br>Noah Webster House &<br>West Hartford<br>Historical Society</a></li>
-            <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></li>
+            <li><a href="https://noahwebsterhouse.org/" target="_blank">Buy the book from</br>Noah Webster House<br>and West Hartford<br>Historical Society</a></li>
       download: [pdf, epub, mobi]
       search: yes
       sharing:
@@ -43,17 +42,15 @@ output:
 ---
 # Preface {-}
 
-![ ](images/0-cover-front.png)
+![ ](images/0-cover-back-and-front-web.jpg)
 
 These chapters help tell the story of the West Hartford, Connecticut community from first settlement to the present day. How does the identity of a community grow? Who are the people whose voices have not been heard? And how did the powerful use their voices? Who spoke and worked for equality, democracy, justice, rights and rebellion, all ideals delineated in our Declaration of Independence? Local history gives us a window into how life in a democracy works.
 
 About the author: Tracey M. Wilson taught history in the West Hartford Public Schools for over 35 years. She taught a course in Local History at Conard High School and wrote articles for ​*West Hartford Life* for 15 years. The Town Council named her Town Historian in 2004. She earned her B.A. and M.A. degrees from Trinity College, and her Ph.D. in history from Brown University. She lives with her wife Beth Bye in West Hartford, CT.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><a href="http://lifeinwesthartford.org"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Life In West Hartford</span></a> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://lifeinwesthartford.org" property="cc:attributionName" rel="cc:attributionURL">Tracey M. Wilson</a>
+Copyright © 2018 by Tracey M. Wilson. *Life in West Hartford* is freely available online at <http://LifeInWestHartford.org> and distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Readers may share the work for non-commercial use, by including a source credit to the author.
 
-Copyright © 2018 by Tracey M. Wilson and freely distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Readers may freely share the work for non-commercial use, by including a source credit to the author.
-
-The contents of this book are freely available online at <http://LifeInWestHartford.org>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="images/cc-by-nc-nd-88x31.png" /></a>
 
 Print copies of this book are available for sale from the publisher, the Noah Webster House & West Hartford Historical Society, in West Hartford, Connecticut. Proceeds of sales benefit the Society <http://noahwebsterhouse.org>.
 
@@ -70,4 +67,4 @@ Tracey M. Wilson
 288 pp.
 First printing September 2018
 
-Web and ebook editions created with [Bookdown](https://bookdown.org), last updated on `r Sys.Date()`
+Web and ebook editions created by Jack Dougherty with [Bookdown](https://bookdown.org), last updated on `r Sys.Date()`
