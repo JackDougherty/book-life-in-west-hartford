@@ -25,7 +25,7 @@ output:
         scroll_highlight: yes
         collapse: section
         before: |
-            <li><a href="./"><strong>Life in West Hartford</strong><br>by Tracey M. Wilson</a></li>
+            <li><a href="./"><strong>Life in West Hartford</strong><br>by Tracey M. Wilson &copy; 2018</a></li>
         after: |
             <li><a href="https://noahwebsterhouse.org/" target="_blank">Buy the book from</br>Noah Webster House<br>and West Hartford<br>Historical Society</a></li>
       download: [pdf, epub, mobi]
